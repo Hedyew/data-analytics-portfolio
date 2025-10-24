@@ -5,6 +5,7 @@ Overview
 This repository demonstrates an end-to-end workflow from exploratory data analysis (EDA) to an interactive dashboard. Everything is lightweight so reviewers can scan the code, run the notebook, and open the dashboard template without sensitive data.
 
 Contents
+
 FinalProject.ipynb — the main analysis notebook.
 Purpose: EDA, feature preparation, basic metrics and visuals, and commentary on findings.
 Outcome: quick insights and figures suitable for reporting or feeding into BI.
